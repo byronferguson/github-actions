@@ -16,3 +16,5 @@ const str3 = 'once upon a time there were three little pigs';
 const capitalized = algo.capitalize(str3);
 
 console.log(str3, '->', capitalized);
+
+// testing
